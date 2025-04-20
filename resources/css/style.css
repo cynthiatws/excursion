@@ -27,9 +27,8 @@ p {
   font-size: 21px;
 }
 
-.footer {
-  background-color: #333;
-  color: #fff;
+footer {
+  color: #333;
   text-align: right;
   padding: 10px;
   position: relative; /* Change to relative if fixed is not desired */
